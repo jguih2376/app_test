@@ -2,7 +2,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 import pandas as pd
 import yfinance as yf
-import investpy as inv
+#import investpy as inv
 import seaborn as sns
 import fundamentus as fd
 import matplotlib.pyplot as plt
